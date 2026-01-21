@@ -25,8 +25,6 @@ Given a synthetic dispersion energy image (frequency x phase-velocity), the scri
 
 ## Repository structure
 
-## Repository structure
-
 ```
 .
 ├── MASW_Ensemble_Toolkit_Synthetic.py
